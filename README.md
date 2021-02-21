@@ -1,5 +1,5 @@
 # Hands Free Game Simulator
-<img src="https://i.ibb.co/xHC92qz/demo.jpg" width="400" height="400">
+<img src="https://i.imgur.com/BjYUUxF.jpg" width="400" height="400">
 
 
 
